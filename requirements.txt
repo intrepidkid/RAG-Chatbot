@@ -1,0 +1,10 @@
+Flask
+langchain==0.2.17
+langchain-community
+langchain-text-splitters
+ctransformers
+chromadb
+PyMuPDF
+transformers
+torch
+sentence-transformers
